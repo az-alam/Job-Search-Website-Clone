@@ -23,7 +23,7 @@ const Data = [
   {
     id: 2,
     image: logo2,
-    title: 'UI Developer',
+    title: 'UI/UX Developer',
     time: '14Hrs',
     location: 'Jaipur',
     desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, blanditiis!',
@@ -51,7 +51,7 @@ const Data = [
     id: 5,
     image: logo5,
     title: 'MEAN Dev.',
-    time: '10Hrs',
+    time: '15Days',
     location: 'Hydrabad',
     desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, blanditiis!',
     company: 'iSkyler Technology'
@@ -59,29 +59,29 @@ const Data = [
   {
     id: 6,
     image: logo6,
-    title: 'MEAN Dev.',
+    title: 'Content Writer',
     time: '10Hrs',
-    location: 'Hydrabad',
+    location: 'Mohali',
     desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, blanditiis!',
     company: 'Durapaid Tech'
   },
   {
     id: 7,
     image: logo7,
-    title: 'MEAN Dev.',
-    time: '10Hrs',
-    location: 'Hydrabad',
+    title: 'Data Scientist.',
+    time: 'Now',
+    location: 'Kerala',
     desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, blanditiis!',
     company: 'Adobe Tech'
   },
   {
     id: 8,
     image: logo8,
-    title: 'MEAN Dev.',
-    time: '10Hrs',
-    location: 'Hydrabad',
+    title: 'Lead Dev.',
+    time: '2Days',
+    location: 'Gurugram',
     desc: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis, blanditiis!',
-    company: 'Durapaid Tech'
+    company: 'Name & Sons'
   },
 ]
 function Jobs() {
