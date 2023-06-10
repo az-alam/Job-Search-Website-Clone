@@ -7,7 +7,7 @@ import logo4 from '../../images/logo-4.png';
 import logo5 from '../../images/logo-5.png';
 import logo6 from '../../images/logo-6.png';
 import logo7 from '../../images/logo-7.png';
-import logo8 from '../../images/logo-8.webp';
+import logo8 from '../../images/logo-8.png';
 
 
 const Data = [
@@ -110,7 +110,7 @@ function Jobs() {
                   <span className='text-[14px] py-[1rem] block group-hover:text-white'>{company}</span>
                 </div>
 
-                <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold text-textColor hover:bg-white group-hover/item:text-textColor group-hover:text-white'>
+                <button className='border-[2px] rounded-[10px] block p-[10px] w-full text-[14px] font-semibold text-textColor hover:bg-white group-hover/item:text-textColor group-hover:text-textColor'>
                   Apply Now
                 </button>
 
