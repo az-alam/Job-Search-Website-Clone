@@ -34,7 +34,6 @@ li:hover::before{
 }
 
 .card{
-  /* background: url(/src/images/estimonial-BG.png); */
   background: url(/src/images/testimonial\ img.jpg);
   background-repeat: no-repeat;
   background-size: cover;
