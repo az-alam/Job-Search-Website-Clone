@@ -1,7 +1,7 @@
 import React from 'react';
-import Simple1 from '../../images/simple1.png';
-import Simple2 from '../../images/simple2.png';
-import Simple3 from '../../images/simple3.png';
+import Simple1 from '../../images/Simple1.png';
+import Simple2 from '../../images/Simple2.png';
+import Simple3 from '../../images/Simple3.png';
 
 function Value() {
   return (
