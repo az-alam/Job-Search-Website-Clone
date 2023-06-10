@@ -33,6 +33,9 @@ li:hover::before{
   cursor: pointer;
 }
 
-/* .card{
-  background: #000;
-} */
+.card{
+  /* background: url(/src/images/estimonial-BG.png); */
+  background: url(/src/images/testimonial\ img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
